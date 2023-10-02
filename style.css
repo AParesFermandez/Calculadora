@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    background-color: rgb(71, 71, 71);
+    width: 130px;
+    height: 130px;
+    justify-content: center;
+    padding: 10px;
+}
+
+button{
+    border-radius: 50%;
+}
+
+.operator{
+    background-color: orange;
+}
+
+#equals{
+    margin-top: 10px;
+    width: 100px;
+    border-radius: 50%;
+    height: 20px;
+}
